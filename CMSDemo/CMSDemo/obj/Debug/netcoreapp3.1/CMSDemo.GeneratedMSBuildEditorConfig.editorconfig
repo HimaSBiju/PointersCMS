@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = CMSDemo
-build_property.ProjectDir = c:\Users\ASUS\OneDrive\Desktop\Gittest\CMSDemo\CMSDemo\
+build_property.ProjectDir = C:\Users\mydel\OneDrive\Desktop\gittest\PointersCMS\CMSDemo\CMSDemo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

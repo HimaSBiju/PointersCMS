@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Gittest\\CMSDemo\\CMSDemo\\CMSDemo.csproj": {}
+    "C:\\Users\\mydel\\OneDrive\\Desktop\\gittest\\PointersCMS\\CMSDemo\\CMSDemo\\CMSDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Gittest\\CMSDemo\\CMSDemo\\CMSDemo.csproj": {
+    "C:\\Users\\mydel\\OneDrive\\Desktop\\gittest\\PointersCMS\\CMSDemo\\CMSDemo\\CMSDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Gittest\\CMSDemo\\CMSDemo\\CMSDemo.csproj",
+        "projectUniqueName": "C:\\Users\\mydel\\OneDrive\\Desktop\\gittest\\PointersCMS\\CMSDemo\\CMSDemo\\CMSDemo.csproj",
         "projectName": "CMSDemo",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Gittest\\CMSDemo\\CMSDemo\\CMSDemo.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Gittest\\CMSDemo\\CMSDemo\\obj\\",
+        "projectPath": "C:\\Users\\mydel\\OneDrive\\Desktop\\gittest\\PointersCMS\\CMSDemo\\CMSDemo\\CMSDemo.csproj",
+        "packagesPath": "C:\\Users\\mydel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mydel\\OneDrive\\Desktop\\gittest\\PointersCMS\\CMSDemo\\CMSDemo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mydel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
